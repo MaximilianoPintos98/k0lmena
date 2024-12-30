@@ -23,3 +23,5 @@ The name of the files are:
 -- cucumber-report.html
 -- playwright-report/index.html
 
+## License
+This framework is Open Source :)
