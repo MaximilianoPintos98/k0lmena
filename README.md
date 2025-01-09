@@ -23,12 +23,12 @@ The name of the files are:
 -- cucumber-report.html
 -- playwright-report/index.html
 
-## License
-This framework is Open Source :)
-
 ## Documentation
 
 [![Watch the video](https://img.youtube.com/vi/n7plezXinZ8/maxresdefault.jpg)](https://youtu.be/n7plezXinZ8)
+
+## License
+This framework is Open Source :)
 
 ## Contributors
 - Gianella Vezzoni
