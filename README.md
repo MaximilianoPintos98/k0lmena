@@ -25,3 +25,8 @@ The name of the files are:
 
 ## License
 This framework is Open Source :)
+
+## Contributors
+- Gianella Vezzoni
+- Danilo Vezzoni
+- Maximiliano Pintos
