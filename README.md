@@ -26,11 +26,11 @@ The name of the files are:
 ## License
 This framework is Open Source :)
 
+## Documentation
+
+[![Watch the video](https://img.youtube.com/vi/n7plezXinZ8/maxresdefault.jpg)](https://youtu.be/n7plezXinZ8)
+
 ## Contributors
 - Gianella Vezzoni
 - Danilo Vezzoni
 - Maximiliano Pintos
-
-## Documentation
-
-[![Watch the video](https://img.youtube.com/vi/n7plezXinZ8/maxresdefault.jpg)](https://youtu.be/n7plezXinZ8)
